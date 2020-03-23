@@ -1,7 +1,7 @@
 # CrudApp
 
 
-My first CRUD Node.js app made with Express
+My first CRUD Node.js app made with Express and MongoDB Atlas
 
 Inspiration and Template from Maximilian Schwarzmuller Node JS course 
 
