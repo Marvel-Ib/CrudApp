@@ -1,10 +1,14 @@
 # CrudApp
 
-
 My first CRUD Node.js app made with Express and MongoDB Atlas
 
 Inspiration and Template from Maximilian Schwarzmuller Node JS course 
 
+## Hosting 
+Node app deployed and ran on the Heroku platform
+Click the link to view the live app
+
+# [marvel-crud-app](https://marvel-crud-app.herokuapp.com/)
 
 
 # Usage
@@ -24,10 +28,4 @@ To serve in the browser
 Ibironke Marvellous
 
 ## Version
-1.0.0
-
-## Hosting 
-Node app deployed and ran on the Heroku platform
-
-# [marvel-crud-app](https://marvel-crud-app.herokuapp.com/)
-
+1.0.2
