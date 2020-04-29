@@ -6,7 +6,7 @@ Inspiration and Template from Maximilian Schwarzmuller Node JS course
 
 ## Hosting 
 Node app deployed and ran on the Heroku platform
-Click the link to view the live app
+### Click the link to view the live app
 
 # [marvel-crud-app](https://marvel-crud-app.herokuapp.com/)
 
