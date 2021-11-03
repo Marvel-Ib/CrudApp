@@ -17,6 +17,6 @@
     "hbs": "^4.1.0",
     "minimist": "^1.2.5",
     "mongoose": "^5.9.5",
-    "validator": "^12.2.0"
+    "validator": "^13.7.0"
   }
 }
